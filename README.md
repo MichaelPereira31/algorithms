@@ -1,17 +1,22 @@
-📚 Algorithms – Implementação em Java
-Este repositório contém implementações dos algoritmos apresentados no livro "Entendendo Algoritmos: Um Guia Ilustrado para Programadores e Outros Curiosos", utilizando Java.
+# 📚 Algorithms – Implementação em Java  
 
-O objetivo é estudar e praticar os conceitos apresentados no livro, tornando o aprendizado mais prático e acessível para programadores e entusiastas da área.
+Este repositório contém implementações dos algoritmos apresentados no livro  
+**"Entendendo Algoritmos: Um Guia Ilustrado para Programadores e Outros Curiosos"**, utilizando **Java**.  
 
-🚀 Tecnologias Utilizadas
-Java – Linguagem principal para implementação dos algoritmos
+O objetivo deste projeto é estudar e praticar os conceitos do livro, proporcionando um aprendizado mais prático e acessível.  
 
-📖 Algoritmos Implementados
+---
 
-✔️ Busca Binária
+## 🚀 Tecnologias Utilizadas  
+- **Java** – Linguagem principal para implementação dos algoritmos  
+---
 
-📌 Contribuição
-Sinta-se à vontade para contribuir com melhorias, refatorações e novos algoritmos! Basta abrir um Pull Request.
+## 📖 Algoritmos Implementados  
+🔹 **Fundamentais**  
+- ✅ Busca Binária  
 
-📜 Licença
-Este projeto é de código aberto e está licenciado sob a MIT License.
+
+_(A lista será atualizada conforme novos algoritmos forem adicionados.)_  
+
+---
+
