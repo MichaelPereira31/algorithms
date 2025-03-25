@@ -7,6 +7,7 @@ O objetivo é estudar e praticar os conceitos apresentados no livro, tornando o 
 Java – Linguagem principal para implementação dos algoritmos
 
 📖 Algoritmos Implementados
+
 ✔️ Busca Binária
 
 📌 Contribuição
